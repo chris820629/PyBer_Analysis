@@ -10,8 +10,8 @@
 Total Fare from Jan to Apr 2019 in different types of city \
 ![Fig8.png](https://github.com/chris820629/PyBer_Analysis/blob/main/analysis/Fig8.png) \
 Driver Count Data (Whisker Plot) \
-![Fig4.png](https://github.com/chris820629/PyBer_Analysis/blob/main/analysis/Fig4.png) \ 
-Ride Fare Data (Whisker Plot) \
+![Fig4.png](https://github.com/chris820629/PyBer_Analysis/blob/main/analysis/Fig4.png) 
+\ Ride Fare Data (Whisker Plot) \
 ![Fig3.png](https://github.com/chris820629/PyBer_Analysis/blob/main/analysis/Fig3.png) \ 
 
 ## Summary:
