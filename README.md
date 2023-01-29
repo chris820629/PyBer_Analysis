@@ -9,7 +9,7 @@
  - The ride fare data shows that each ride fare is the highest in the rural cities but not significantly higher than other types of cities
 Total Fare from Jan to Apr 2019 in different types of city\
 
-![PyBer_fare_summary.png]<img src="ttps://github.com/chris820629/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png" width="1000" height="500">
+![PyBer_fare_summary.png]<img src="ttps://github.com/chris820629/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png" width="1000">
 Driver Count Data (Whisker Plot)\
 ![Fig4.png](https://github.com/chris820629/PyBer_Analysis/blob/main/analysis/Fig4.png)\
 Ride Fare Data (Whisker Plot)\
