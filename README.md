@@ -8,7 +8,7 @@
  - The mean of driver count in urban cities is roughly 7 times more than the rural cities
  - The ride fare data shows that each ride fare is the highest in the rural cities but not significantly higher than other types of cities
 Total Fare from Jan to Apr 2019 in different types of city\
-![PyBer_fare_summary.png](https://github.com/chris820629/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)\
+![PyBer_fare_summary.png](https://github.com/chris820629/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png = 400x250)\
 Driver Count Data (Whisker Plot)\
 ![Fig4.png](https://github.com/chris820629/PyBer_Analysis/blob/main/analysis/Fig4.png)\
 Ride Fare Data (Whisker Plot)\
