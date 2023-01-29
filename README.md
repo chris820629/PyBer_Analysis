@@ -7,16 +7,16 @@
  - Driver count variance is the highest in the urban citie. 
  - The mean of driver count in urban cities is roughly 7 times more than the rural cities
  - The ride fare data shows that each ride fare is the highest in the rural cities but not significantly higher than other types of cities
-Total Fare from Jan to Apr 2019 in different types of city \
-![PyBer_fare_summary.png](https://github.com/chris820629/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png) \
-Driver Count Data (Whisker Plot) \
-![Fig4.png](https://github.com/chris820629/PyBer_Analysis/blob/main/analysis/Fig4.png) 
-Ride Fare Data (Whisker Plot) \
-![Fig3.png](https://github.com/chris820629/PyBer_Analysis/blob/main/analysis/Fig3.png) \ 
-Total Revenue by City Type \
-![Revenue_by_City_Type.png](https://github.com/chris820629/PyBer_Analysis/blob/main/analysis/Revenue_by_City_Type.png) \ 
-Correlation Between Average Fare vs. Total Number of Rides vs. Drive Count Per City vs. City Type
-![Average_Fare_vs_Total_Rides_City.png](https://github.com/chris820629/PyBer_Analysis/blob/main/analysis/Average_Fare_vs_Total_Rides_City.png) \ 
+Total Fare from Jan to Apr 2019 in different types of city\
+![PyBer_fare_summary.png](https://github.com/chris820629/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)\
+Driver Count Data (Whisker Plot)\
+![Fig4.png](https://github.com/chris820629/PyBer_Analysis/blob/main/analysis/Fig4.png)\
+Ride Fare Data (Whisker Plot)\
+![Fig3.png](https://github.com/chris820629/PyBer_Analysis/blob/main/analysis/Fig3.png)\ 
+Total Revenue by City Type\
+![Revenue_by_City_Type.png](https://github.com/chris820629/PyBer_Analysis/blob/main/analysis/Revenue_by_City_Type.png)\ 
+Correlation Between Average Fare vs. Total Number of Rides vs. Drive Count Per City vs. City Type\
+![Average_Fare_vs_Total_Rides_City.png](https://github.com/chris820629/PyBer_Analysis/blob/main/analysis/Average_Fare_vs_Total_Rides_City.png)\ 
 
 ## Summary:
 - Rural cities seem to require effort to increase number of rides, probably by reducing the fare since rural ride fare shows the highest comparing to urban and suburban
