@@ -10,11 +10,11 @@
 
 <img src="https://github.com/chris820629/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png" width="600">
 **Total Fare from Jan to Apr 2019 in different types of city**
-<img src="https://github.com/chris820629/PyBer_Analysis/blob/main/analysis/Fig4.png" width="600" height="250">
+<img src="https://github.com/chris820629/PyBer_Analysis/blob/main/analysis/Fig4.png" width="600" height="350">
 **Driver Count Data **
-<img src="https://github.com/chris820629/PyBer_Analysis/blob/main/analysis/Fig3.png" width="600" height="250">
+<img src="https://github.com/chris820629/PyBer_Analysis/blob/main/analysis/Fig3.png" width="600" height="350">
 **Ride Fare Data **
-<img src="https://github.com/chris820629/PyBer_Analysis/blob/main/analysis/Revenue_by_City_Type.png" width="600" height="250">
+<img src="https://github.com/chris820629/PyBer_Analysis/blob/main/analysis/Revenue_by_City_Type.png" width="300" height="300">
 **Total Revenue by City Type**
 <img src="https://github.com/chris820629/PyBer_Analysis/blob/main/analysis/Average_Fare_vs_Total_Rides_City.png" width="800" > 
 **Correlation Between Average Fare vs. Total Number of Rides vs. Drive Count Per City vs. City Type**
