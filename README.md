@@ -7,7 +7,7 @@ This project focused on the application of Pandas, NumPy, and Matplotlib librari
   - [Resources](#resources)
 - [Experimental and Analysis Results](#experimental-and-analysis-results)
   - [Discovery](#Discovery)
-  - [Analysis Plots](#Analysis Plots)
+  - [Analysis Plots](#Analysis-Plots)
 - [Summary and Next Step](#summary)
 - [References](#references)
 
