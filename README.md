@@ -6,9 +6,8 @@ This project focused on the application of Pandas, NumPy, and Matplotlib librari
 - [Overview and Objective of Project](#overview-and-Objective-of-project)
   - [Resources](#resources)
 - [Experimental and Analysis Results](#experimental-and-analysis-results)
-  - [Discovery1](#Discovery1)
-  - [Discovery2](#Discovery2)
-  - [Discovery3](#Discovery3)
+  - [Discovery](#Discovery)
+  - [Analysis Plots](#Analysis Plots)
 - [Summary and Next Step](#summary)
 - [References](#references)
 
@@ -20,6 +19,7 @@ This study serves the purpose of finding the trend of the rideshare trip data wi
 - Output File: png files
 - Software: [Matplotlib 3.5](https://matplotlib.org/3.6.0/users/release_notes.html), [conda 22.9.0](https://github.com/conda/conda/releases), [Python 3.9.12](https://docs.python.org/release/3.9.12/), [Visual Studio Code 1.71.1](https://code.visualstudio.com/updates/v1_71), or their newer releases
 ## Experimental and Analysis Results:
+### Discovery
  - Urban total fare is the highest among other types of city.
  - There seems to be uptick of fare close to end of March timeframe
  - Driver count variance is the highest in the urban citie. 
@@ -28,6 +28,7 @@ This study serves the purpose of finding the trend of the rideshare trip data wi
  - Urban revenue accounts almost 2/3 of the total revenue
  - Since average $/ride is lower in urban cities, drivers need to get more rides to have the same amount of daily revenue
 
+### Analysis Plots
 <img src="https://github.com/chris820629/PyBer_Analysis/blob/main/Images/PyBer_fare_summary.png" width="600">
 **Total Fare from Jan to Apr 2019 in different types of city**
 <img src="https://github.com/chris820629/PyBer_Analysis/blob/main/Images/Fig4.png" width="600" height="350">
