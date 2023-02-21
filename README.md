@@ -1,7 +1,25 @@
 # PyBer_Analysis
-## Overview of the analysis:
- - This study serves the purpose of finding the trend of total fare within the 4 months timeframe in 2019. There are three trendlines indicating the fares vary across different types of cities
-## Results:
+This project focused on the application of Pandas, NumPy, and Matplotlib libraries, and how I leveraged their useful functions for performing efficient data analytics and data visualization.
+
+## Table of Contents
+
+- [Overview and Objective of Project](#overview-and-Objective-of-project)
+  - [Resources](#resources)
+- [Experimental and Analysis Results](#experimental-and-analysis-results)
+  - [Discovery1](#Discovery1)
+  - [Discovery2](#Discovery2)
+  - [Discovery3](#Discovery3)
+- [Summary and Next Step](#summary)
+- [References](#references)
+
+## Overview and Objective of Project:
+This study serves the purpose of finding the trend of the rideshare trip data with 4 months timeframe in 2019. By using the interactive computational environment, Jupyter Notebook and integrating useful modules, functions, and data structures, I performed an analysis and visualization for each city type more efficiently. Some popular Python libraries, especially Pandas, NumPy, Statistics and Matplotlib were leveraged to generate multiple graphs then summarized the discoveries into a written report with suggestions to further support decision-makers at this ridesharing company.
+### Resources
+- Data Source: city_data.csv, ride_data.csv
+- Source Code: Rideshare Revenue Analysis.ipynb, Seasonality_Analysis_preliminary_EDA.ipynb, Seasonality_to_Revenue.ipynb
+- Output File: png files
+- Software: [Matplotlib 3.5](https://matplotlib.org/3.6.0/users/release_notes.html), [conda 22.9.0](https://github.com/conda/conda/releases), [Python 3.9.12](https://docs.python.org/release/3.9.12/), [Visual Studio Code 1.71.1](https://code.visualstudio.com/updates/v1_71), or their newer releases
+## Experimental and Analysis Results:
  - Urban total fare is the highest among other types of city.
  - There seems to be uptick of fare close to end of March timeframe
  - Driver count variance is the highest in the urban citie. 
@@ -27,3 +45,9 @@
 - Suburban cities seem to be 30% of the revenue, it is critical to focus on the needs of suburban rides to reduce solely relying on urban ride revenue
 - Urban cities already has the highest revenue among others but it requires high demand and supply of drivers to maintain the high revenue. We may need to look into the current driver churn rate to maintain our driver supply. 
 - In terms of seasonality, summer time has the highest riders, which may due to the better weather. We could either use ML to discover hidden features that vary from seasonality or provide more incentives in low season timeframe. 
+
+
+## References
+[Pandas User Guide](https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html#user-guide)\
+[Matplotlib Stable Release](https://matplotlib.org/3.6.0/users/release_notes.html)\
+
